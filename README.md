@@ -37,6 +37,6 @@ Khi "Vibe Code" với AI (như việc nhờ AI tạo ra các kịch bản phân 
 
 Lưu trạng thái liên tục (Micro-commits): Mỗi khi AI sinh ra một khối lượng code hoạt động trơn tru (ví dụ: hoàn thành xong bước làm sạch dữ liệu), tôi sẽ commit ngay lập tức. Nếu đoạn code AI gợi ý tiếp theo làm hỏng chương trình, tôi có thể dễ dàng rollback lại điểm an toàn gần nhất.
 
-Thử nghiệm rẽ nhánh tự do (Branching for Exploration): Nếu tôi muốn yêu cầu AI thử tối ưu hóa code theo một hướng hoàn toàn mới (như thay đổi hoàn toàn cấu trúc thuật toán), tôi sẽ tạo một nhánh (branch) riêng. Nếu kết quả "vibe" thành công, tôi sẽ merge nó vào nhánh chính. Nếu code rác hoặc lỗi, tôi chỉ việc xóa nhánh đó đi mà không làm ảnh hưởng đến project hiện tại.
+Thử nghiệm rẽ nhánh tự do (Branching for Exploration): Nếu tôi muốn yêu cầu AI thử tối ưu hóa code theo một hướng hoàn toàn mới (như thay đổi hoàn toàn cấu trúc thuật toán), tôi sẽ tạo một nhánh (branch) riêng. Nếu kết quả "vibe" thành công, tôi sẽ merge nó vào nhánh chính. Nếu code rác hoặc lỗi, tôi chỉ việc xóa nhánh đó đi mà không làm ảnh hưởng đến project hiện tại
 
 
