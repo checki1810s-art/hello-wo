@@ -1,5 +1,6 @@
 Để xem trước nội dung mới, hãy chọn Xem trước ở phía trên nội dung tệp .
-1. Link GitHub Repository
+# 1. Link GitHub Repository
+https://github.com/checki1810s-art/hello-wo
 
  # 2.Quá trình học Git và GitHub
 
